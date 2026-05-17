@@ -7,7 +7,7 @@
 ![Accuracy](https://img.shields.io/badge/ML%20Accuracy-98.2%25-brightgreen?style=flat-square)
 ![Graph Accuracy](https://img.shields.io/badge/Graph%20Accuracy-87%25-yellow?style=flat-square)
 
----
+--- 
 
 ##  Problem Statement
 

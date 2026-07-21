@@ -10,7 +10,7 @@
 --- 
 
 ##  Problem Statement
-
+ 
 Social media platforms are flooded with **fake accounts (bots)** that:
 - Spread misinformation
 - Manipulate trends
